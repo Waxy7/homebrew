@@ -1,0 +1,154 @@
+{
+	"json": "Way of the Sumo",
+	"abbreviation": "WOTS",
+	"full": "The Way of the Sumo",
+	"authors": [
+		"Ian"
+	],
+	"edition": "5e",
+	"status": [
+		"Wip"
+	],
+	"subclass": [
+		{
+			"name": "The Way of the Sumo",
+			"shortName": "The Way of the Sumo",
+			"source": "Custom by me",
+			"className": "Monk",
+			"classSource": "PHB",
+			"page": 1,
+			"subclassFeatures": [
+				"The Way of the Sumo|Monk|PHB|The Way of the Sumo|The Way of the Sumo|Monk|PHB|The Way of the Sumo|The Way of the Sumo|6",
+				"Custom by me|Monk|PHB|The Way of the Sumo|The Way of the Sumo|10"
+			],
+			"hasFluffImages": true
+		}
+	],
+	"subclassFluff": [
+		{
+			"name": "The Way of the Sumo",
+			"shortName": "The Way of the Sumo",
+			"source": "Custom by me",
+			"className": "Monk",
+			"classSource": "PHB",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "external",
+						"url": "https://i.pinimg.com/1200x/62/16/68/62166836a82a223d20ee135f612f6b6c.jpg"
+					},
+					"title": "Sumo",
+					"credit": "Ian"
+				}
+			]
+		}
+	],
+	"subclassFeature": [
+		{
+			"name": "The Way of the Sumo",
+			"source": "The Way of the Sumo",
+			"page": 1,
+			"className": "Monk",
+			"classSource": "PHB",
+			"subclassShortName": "The Way of the Sumo",
+			"subclassSource": "The Way of the Sumo",
+			"level": 1,
+			"entries": [
+				"Monks of the Sumo use their superior force, and technique to knock their opponents to the ground. They use a mixture of being an unstoppable force, as well as an immovable object to best their adversaries.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Unrelenting force|Monk|PHB|The Way of Thee Sumo|The Way of the Sumo|1|The Way of the Sumo"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Bonus Proficencies|Monk|PHB|The Way of Thee Sumo|The Way of the Sumo|1|The Way of the Sumo"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Improved Shove|Monk|PHB|The Way of Thee Sumo|The Way of the Sumo|1|The Way of the Sumo"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Sumo Stomp|Monk|PHB|The Way of Thee Sumo|The Way of the Sumo|1|The Way of the Sumo"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Yokozuna|Monk|PHB|The Way of Thee Sumo|The Way of the Sumo|1|The Way of the Sumo"
+				},
+				{
+					"name": "Unrelenting Force",
+					"source": "The Way of the Sumo",
+					"page": 1,
+					"className": "Monk",
+					"classSource": "PHB",
+					"subclassShortName": "The Way of Thee Sumo",
+					"subclassSource": "The Way of the Sumo",
+					"level": 3,
+					"header": 1,
+					"entries": [
+						"When you Choose this tradition at 3rd level, you improve in your ability to manipulate your opponent in battle. You gain the ability to use the shove attack or the grapple attack as a bonus action by spending a point of Ki. Maintaining control of your opponent will give you the upper hand in battle, giving you and your allies a chance to inflict as much harm as possible.",
+						{}
+					]
+				},
+				{
+					"name": "Bonus Proficiencies",
+					"source": "The Way of the Sumo",
+					"page": 3,
+					"className": "Monk",
+					"classSource": "PHB",
+					"subclassShortName": "The Way of Thee Sumo",
+					"subclassSource": "The Way of the Sumo",
+					"level": 1,
+					"header": 1,
+					"entries": [
+						"At 3rd level, you gain Proficiency in the Athletics skill if you do not already have it. Your study into the art of Sumo has given you techniques into shoving your opponents. You also gain proficiency in cook’s utensils if you don’t already have it.."
+					]
+				},
+				{
+					"name": "Improved Shove",
+					"source": "The Way of the Sumo",
+					"page": 1,
+					"className": "Monk",
+					"classSource": "PHB",
+					"subclassShortName": "The Way of Thee Sumo",
+					"subclassSource": "The Way of the Sumo",
+					"level": 6,
+					"header": 1,
+					"entries": [
+						"Starting at 6th level, you improve in your ability to push your opponent away or to the ground. When performing a shove attack you can spend a Ki point to have advantage on the attack. Your body conditioning training and meditation on the 70 winning strategies of Sumo, has made you more Adept at commanding the battle. In addition, your distance to push an enemy increases to 10 ft."
+					]
+				},
+				{
+					"name": "Sumo Stomp",
+					"source": "The Way of the Sumo",
+					"page": 1,
+					"className": "Monk",
+					"classSource": "PHB",
+					"subclassShortName": "The Way of Thee Sumo",
+					"subclassSource": "The Way of the Sumo",
+					"level": 11,
+					"header": 2,
+					"entries": [
+						"At 11th level, you gain the ability to shake the earth beneath your feet. So long as you are not standing atop difficult terrain, as an action you can spend 2 Ki points to shake the earth. Those within 15 ft of you must make a Dexterity saving throw against your DC or take 2d6 bludgeoning damage and fall prone, if they succeed, they take half as much and don’t fall prone. You can spend additional Ki to increase the damage by 1d6 for every Ki point added to a maximum of half your monk  level.",
+						{},
+						{
+							"name": "Yokozuna",
+							"source": "The Way of the Sumo",
+							"page": 1,
+							"className": "Monk",
+							"classSource": "PHB",
+							"subclassShortName": "The Way of Thee Sumo",
+							"subclassSource": "The Way of the Sumo",
+							"level": 17,
+							"header": 2,
+							"entries": [
+								"As of level 17, you have dedicated yourself to the way of Sumo and have mastered its art and have become the highest rank of sumo Yokozuna, in which you learn to utilize your immovable nature to weather harm. As a bonus action you can use 3 Ki points to give yourself 2d6 temporary hitpoints that last for a minute, at the start of subsequent turns you can reroll your temporary hitpoints until the minute is up or is dismissed"
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
